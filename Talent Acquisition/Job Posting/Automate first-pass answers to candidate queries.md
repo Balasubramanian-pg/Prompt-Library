@@ -16,7 +16,7 @@
 
 ### Prompt Set 2: Elaboration, Benefits, and Basic Implementation Approaches
 
-> [!INFO]
+> [!TIP]
 > You are now an expert in recruitment process optimization. Building on the foundational understanding of automated first-pass answers, your next task is to elaborate on their strategic value and outline basic implementation methods.
 >
 > 1.  **Strategic Benefits:** Explain the primary benefits an organization gains by effectively automating first-pass answers to candidate queries. Focus on at least three distinct advantages (e.g., efficiency, candidate experience, resource allocation).
