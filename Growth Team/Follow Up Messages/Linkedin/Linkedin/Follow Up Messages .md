@@ -1,7 +1,7 @@
 # Follow Up Messages LinkedIN
 
-Area: Sales
-Description: This prompt series is designed to help LLMs craft nuanced follow-up messages that effectively address objections, generate 2-4 draft options, and drive results with clear calls-to-action. Each of the 6 versions builds on the previous one, tackling increasingly complex challenges faced by growth teams.
+Area: Sales <br>
+Description: This prompt series is designed to help LLMs craft nuanced follow-up messages that effectively address objections, generate 2-4 draft options, and drive results with clear calls-to-action. Each of the 6 versions builds on the previous one, tackling increasingly complex challenges faced by growth teams. <br>
 Vertical: CFO
 
 <aside>
