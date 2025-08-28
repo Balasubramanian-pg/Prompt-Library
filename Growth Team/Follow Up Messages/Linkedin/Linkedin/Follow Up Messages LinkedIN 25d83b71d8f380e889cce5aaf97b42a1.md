@@ -5,9 +5,7 @@ Description: This prompt series is designed to help LLMs craft nuanced follow-up
 Vertical: CFO
 
 <aside>
-<img src="https://www.notion.so/icons/cards_gray.svg" alt="https://www.notion.so/icons/cards_gray.svg" width="10px" />
-
-## **Guidelines for Managing LLM Interactions (Read this so you can go home sooner)**
+<img src="https://www.notion.so/icons/cards_gray.svg" alt="https://www.notion.so/icons/cards_gray.svg" width="30px" />  ## **Guidelines for Managing LLM Interactions (Read this so you can go home sooner)**
 
 - **Recall and Context Management**
     - All LLMs have a **recall** parameter influenced by their “creativity” or temperature setting, which varies by provider.
