@@ -5,7 +5,7 @@ Description: This prompt series is designed to help LLMs craft nuanced follow-up
 Vertical: CFO
 
 <aside>
-<img src="https://www.notion.so/icons/cards_gray.svg" alt="https://www.notion.so/icons/cards_gray.svg" width="40px" />
+<img src="https://www.notion.so/icons/cards_gray.svg" alt="https://www.notion.so/icons/cards_gray.svg" width="10px" />
 
 ## **Guidelines for Managing LLM Interactions (Read this so you can go home sooner)**
 
