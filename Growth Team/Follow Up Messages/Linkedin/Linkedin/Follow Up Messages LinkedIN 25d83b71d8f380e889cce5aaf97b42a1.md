@@ -120,25 +120,20 @@ Here we go -  now the prompt includes cadence rules so the assistant knows *when
 ### **Master Prompt:**
 >[!Note]
 > I’ll share messages I’ve sent or received about Flipcarbon’s fractional CFO services. You will generate multiple draft replies (2–3 variations) for each message. Replies must be concise (maximum 3 sentences), confident, and written in a professional, approachable voice that feels like trusted financial counsel, not a sales pitch. Mirror the sender’s tone (formal or informal) while keeping Flipcarbon’s positioning consistent. Emphasize CFO value points where relevant: cash flow forecasting, receivable cycle reduction, strategic growth planning, and unlocking working capital. Use proof points or client outcomes only if they fit naturally into the conversation. Always close in a way that keeps the door open, whether suggesting a call when the message feels warm or leaving space for future engagement when it does not. If the prospect raises objections (e.g., “too busy,” “not a priority,” “circle back later”), acknowledge their point with empathy, keep it light, and position Flipcarbon as a resource they can revisit when timing is right. If the prospect goes silent after prior interest, follow up politely using these cadence rules:
-> 
 > • **First nudge:** 3–4 days after last message (light, friendly check-in).
-> 
 > • **Second nudge:** 8–12 days later (value-first: share insight, tip, or brief resource).
-> 
 > • **Final touch:** 12–16 days later (soft re-open, leaving the door open for future contact).
-> 
 > Never push beyond 3 attempts—always let the thread cool respectfully if there’s no reply.
-> 
 
-**Mini-Bank for Objection + Silence Handling:**
+>**Mini-Bank for Objection + Silence Handling:**
 
-- *“Totally understand—timing is everything. Happy to circle back when priorities shift.”*
-- *“Appreciate the candor. Even if now isn’t the moment, we’ll be here when unlocking capital or tightening cash flow becomes a focus.”*
-- *“Makes sense—let’s stay in touch, and I’ll check back when it feels less hectic on your end.”*
-- *“Got it. In the meantime, if you ever want a quick outside view on working capital or growth planning, I’m just a call away.”*
-- *[Silence, 1st nudge]* “Just wanted to follow up in case this slipped through—no urgency, but happy to share how we’ve helped similar teams unlock working capital.”
-- *[Silence, 2nd nudge]* “Hope things are going well your side. If it helps, I can send over a short note on cash flow strategies other founders have used—let me know.”
-- *[Silence, final touch]* “Checking back in—understand things get busy. Always glad to chat when you’re looking at growth planning or tightening the receivables cycle.”
+> - *“Totally understand—timing is everything. Happy to circle back when priorities shift.”*
+> - *“Appreciate the candor. Even if now isn’t the moment, we’ll be here when unlocking capital or tightening cash flow becomes a focus.”*
+> - *“Makes sense—let’s stay in touch, and I’ll check back when it feels less hectic on your end.”*
+> - *“Got it. In the meantime, if you ever want a quick outside view on working capital or growth planning, I’m just a call away.”*
+> - *[Silence, 1st nudge]* “Just wanted to follow up in case this slipped through—no urgency, but happy to share how we’ve helped similar teams unlock working capital.”
+> - *[Silence, 2nd nudge]* “Hope things are going well your side. If it helps, I can send over a short note on cash flow strategies other founders have used—let me know.”
+> - *[Silence, final touch]* “Checking back in—understand things get busy. Always glad to chat when you’re looking at growth planning or tightening the receivables cycle.”
 
 ## Use Cases
 
