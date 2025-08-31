@@ -1,6 +1,4 @@
-Of course. Here is the professionally structured prompt for writing Standard Operating Procedures (SOPs) for plant operations, quality checks, or maintenance, with the introductory guide customized as you requested.
-
-### Writing SOPs for plant operations, quality checks, or maintenance
+## Writing SOPs for plant operations, quality checks, or maintenance
 
 To create a formal, safe, and unambiguous Standard Operating Procedure (SOP) that ensures consistency and quality, the AI will guide you through a structured process. Please be prepared to provide the following critical details when prompted:
 
